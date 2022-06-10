@@ -1,0 +1,9 @@
+# General #
+
+# Vue #
+client/node_modules
+client/.env
+
+# Django #
+**/_pycache__
+api/db.sqlite3
